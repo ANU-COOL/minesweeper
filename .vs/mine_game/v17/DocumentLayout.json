@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\mine_game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F1756E-D2AB-4FE6-AFBF-8CBC0832382B}|mine_game.vcxproj|C:\\Users\\ACER\\source\\repos\\mine_game\\mine_game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B2F1756E-D2AB-4FE6-AFBF-8CBC0832382B}|mine_game.vcxproj|solutionrelative:mine_game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mine_game.cpp",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\mine_game\\mine_game.cpp",
+              "RelativeDocumentMoniker": "mine_game.cpp",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\mine_game\\mine_game.cpp",
+              "RelativeToolTip": "mine_game.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-11T05:34:43.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
