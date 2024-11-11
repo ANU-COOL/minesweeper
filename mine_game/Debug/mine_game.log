@@ -1,0 +1,5 @@
+﻿  mine_game.cpp
+C:\Users\ACER\source\repos\mine_game\mine_game.cpp(12,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ACER\source\repos\mine_game\mine_game.cpp(74,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\source\repos\mine_game\mine_game.cpp(74,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  mine_game.vcxproj -> C:\Users\ACER\source\repos\mine_game\Debug\mine_game.exe
